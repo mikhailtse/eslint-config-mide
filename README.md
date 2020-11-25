@@ -4,10 +4,4 @@ Read [airbnb guide](https://github.com/airbnb/javascript).
 
 ## Overriden rules
 
-```js
-    'arrow-body-style': 'off',
-    'indent': ['error', 4],
-    'linebreak-style': 'off',
-    'max-len': 'off',
-    'no-console': ['error', { 'allow': ['warn', 'error'] }],
-```
+Check [packages/eslint-config-mide-base/.eslintrc.js](https://github.com/MikhailTSE/eslint-config-mide/blob/main/packages/eslint-config-mide-base/.eslintrc.js) for overriden base JS rules.
