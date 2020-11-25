@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-mide-base",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "JS ESlint config based on recommended best practices",
     "main": "index.js",
     "scripts": {},
