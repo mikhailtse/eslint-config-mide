@@ -1,0 +1,11 @@
+.vscode
+
+node_modules
+
+# Only apps should have lockfiles
+package-lock.json
+yarn.lock
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

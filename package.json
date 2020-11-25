@@ -1,0 +1,27 @@
+{
+    "name": "eslint-config-mide",
+    "version": "1.0.0",
+    "description": "Airbnb based eslint config.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MikhailTSE/eslint-config-mide.git"
+    },
+    "keywords": [
+        "es2015",
+        "es2016",
+        "es2017",
+        "es2018",
+        "es6",
+        "jsx",
+        "lint",
+        "react",
+        "style guide",
+        "styleguide"
+    ],
+    "author": "Mikhail Demin <mikhail.tse@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MikhailTSE/eslint-config-mide/issues"
+    },
+    "homepage": "https://github.com/MikhailTSE/eslint-config-mide"
+}

@@ -1,0 +1,27 @@
+{
+    "name": "eslint-config-mide-base",
+    "version": "1.0.0",
+    "description": "JS ESlint config based on recommended best practices",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MikhailTSE/eslint-config-mide"
+    },
+    "author": "Mikhail Demin <mikhail.tse@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MikhailTSE/eslint-config-mide/issues"
+    },
+    "homepage": "https://github.com/MikhailTSE/eslint-config-mide",
+    "peerDependencies": {
+        "eslint": "^7.14.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.22.1"
+    },
+    "devDependencies": {
+        "eslint": "^7.14.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.22.1"
+    }
+}
