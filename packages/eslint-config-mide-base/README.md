@@ -8,7 +8,7 @@ This package provides [Airbnb's base JS .eslintrc](https://github.com/airbnb/jav
 
 ## Usage
 
-Default export contains all of our ESLint rules, including ECMAScript 6+. It requires `eslint` and `eslint-plugin-import`.
+Default export contains all of ESLint rules, including ECMAScript 6+. It requires `eslint` and `eslint-plugin-import`.
 
 1. Install the correct versions of each package, which are listed by the command:
 
