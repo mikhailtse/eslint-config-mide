@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-mide-base",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "JS ESlint config based on recommended best practices",
     "main": "index.js",
     "scripts": {},
@@ -19,7 +19,6 @@
     },
     "peerDependencies": {
         "eslint": "^7.14.0",
-        "eslint-config-airbnb-base": "^14.2.1",
         "eslint-plugin-import": "^2.22.1"
     },
     "devDependencies": {
