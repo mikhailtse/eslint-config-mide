@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/eslint-config-mide-base.svg)](http://badge.fury.io/js/eslint-config-mide-base)
 ![NPM downloads](https://img.shields.io/npm/dm/eslint-config-mide-base)
-[![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/MikhailTSE/eslint-config-mide/packages/eslint-config-mide-base/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/MikhailTSE/eslint-config-mide/blob/main/packages/eslint-config-mide-base/LICENSE)
 
 This package provides [Airbnb's base JS .eslintrc](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base) (without React plugins) with my personal preferences as an extensible shared config.
 
