@@ -1,10 +1,10 @@
 module.exports = {
     extends: [
-        'airbnb-base',
-    ],
+        'eslint-config-airbnb-base',
+    ].map(require.resolve),
     rules: {
         'arrow-body-style': 'off',
-        'indent': ['error', 4, {
+        indent: ['error', 4, {
             ignoredNodes: [
                 'JSXElement',
                 'JSXElement > *',
@@ -22,11 +22,11 @@ module.exports = {
                 'JSXText',
                 'JSXEmptyExpression',
                 'JSXSpreadChild',
-            ]
+            ],
         }],
         'linebreak-style': 'off',
         'max-len': 'off',
         'jsx-quotes': ['error', 'prefer-single'],
-        'no-console': ['error', { 'allow': ['warn', 'error'] }],
+        'no-console': ['error', { allow: ['warn', 'error'] }],
     },
-}
+};
