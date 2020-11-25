@@ -26,6 +26,7 @@ module.exports = {
         }],
         'linebreak-style': 'off',
         'max-len': 'off',
+        'jsx-quotes': ['error', 'prefer-single'],
         'no-console': ['error', { 'allow': ['warn', 'error'] }],
     },
 }
