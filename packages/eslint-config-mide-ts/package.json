@@ -1,0 +1,37 @@
+{
+    "name": "eslint-config-mide-ts",
+    "version": "1.0.0",
+    "description": "TS ESlint config based on recommended best practices",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MikhailTSE/eslint-config-mide"
+    },
+    "author": "Mikhail Demin <mikhail.tse@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MikhailTSE/eslint-config-mide/issues"
+    },
+    "homepage": "https://github.com/MikhailTSE/eslint-config-mide",
+    "dependencies": {
+        "eslint-config-airbnb-typescript": "^12.0.0",
+        "eslint-config-mide-base": "^1.0.3"
+    },
+    "peerDependencies": {
+        "@typescript-eslint/eslint-plugin": "^4.9.0",
+        "@typescript-eslint/parser": "^4.9.0",
+        "eslint": "^7.14.0",
+        "eslint-plugin-import": "^2.22.1",
+        "typescript": "^4.1.2"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^4.9.0",
+        "@typescript-eslint/parser": "^4.9.0",
+        "eslint": "^7.14.0",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-plugin-jsx-a11y": "^6.4.1",
+        "eslint-plugin-react": "^7.21.5",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "typescript": "^4.1.2"
+    }
+}
