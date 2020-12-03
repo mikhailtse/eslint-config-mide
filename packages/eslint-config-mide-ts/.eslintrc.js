@@ -4,16 +4,14 @@ module.exports = {
         'eslint-config-mide-base',
     ].map(require.resolve),
     rules: {
-        rules: {
-            'import/extensions': ['error', 'ignorePackages', {
-                js: 'never',
-                jsx: 'never',
-                mjs: 'never',
-                ts: 'never',
-                tsx: 'never',
-            }],
-        },
-        
+        'import/extensions': ['error', 'ignorePackages', {
+            js: 'never',
+            jsx: 'never',
+            mjs: 'never',
+            ts: 'never',
+            tsx: 'never',
+        }],
+
         '@typescript-eslint/indent': ['error', 4],
     },
 };
