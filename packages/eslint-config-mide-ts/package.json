@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-mide-ts",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "TS ESlint config based on recommended best practices",
     "main": "index.js",
     "repository": {
