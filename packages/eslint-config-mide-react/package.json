@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-mide-react",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "React ESlint config based on recommended best practices",
     "main": "index.js",
     "scripts": {},
