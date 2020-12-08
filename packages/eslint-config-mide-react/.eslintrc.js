@@ -12,10 +12,6 @@ module.exports = {
         'react/jsx-indent-props': ['error', 4],
         'react/jsx-props-no-spreading': 'off',
         'react/require-default-props': 'off',
-        'react/forbid-prop-types': ['error', {
-            forbid: ['array'],
-            checkContextTypes: true,
-            checkChildContextTypes: true,
-        }],
+        'react/forbid-prop-types': 'off',
     },
 };
