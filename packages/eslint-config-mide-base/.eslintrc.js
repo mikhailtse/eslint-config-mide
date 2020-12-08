@@ -1,10 +1,11 @@
+/* eslint-disable quote-props */
 module.exports = {
     extends: [
         'eslint-config-airbnb-base',
     ].map(require.resolve),
     rules: {
         'arrow-body-style': 'off',
-        indent: ['error', 4, {
+        'indent': ['error', 4, {
             ignoredNodes: [
                 'JSXElement',
                 'JSXElement > *',
@@ -23,6 +24,7 @@ module.exports = {
                 'JSXEmptyExpression',
                 'JSXSpreadChild',
             ],
+            'SwitchCase': 1,
         }],
         'linebreak-style': 'off',
         'max-len': 'off',
