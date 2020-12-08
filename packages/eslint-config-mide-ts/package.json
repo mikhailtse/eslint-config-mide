@@ -15,7 +15,7 @@
     "homepage": "https://github.com/MikhailTSE/eslint-config-mide",
     "dependencies": {
         "eslint-config-airbnb-typescript": "^12.0.0",
-        "eslint-config-mide-base": "^1.0.3"
+        "eslint-config-mide-base": "^1.0.4"
     },
     "peerDependencies": {
         "@typescript-eslint/eslint-plugin": "^4.9.0",
